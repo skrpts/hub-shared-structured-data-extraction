@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "981abcdf-ede2-46cc-8576-6cf894c24579"
+name: "structured-data-extraction"
+display_name: "Structured Data Extraction"
+description: "Extracts structured fields and data points from unstructured text"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-structured-data-extraction"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
