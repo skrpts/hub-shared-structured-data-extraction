@@ -3,7 +3,7 @@ id: "a611e3ad-f49d-41fb-a380-f97289f51d12"
 name: "structured-data-extraction"
 display_name: "Structured Data Extraction"
 description: "Extracts structured fields and data points from unstructured text"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
